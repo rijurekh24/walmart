@@ -43,7 +43,7 @@ const Babu = () => {
     const node = nodesData[nodeId];
     nodes[nodeId] = {
       x: node.x,
-      y: node.y,
+      y: node.z,
       name: node.name,
     };
   }
