@@ -6,16 +6,17 @@ import SetupPage from "./pages/SetupPage";
 import ViewPathPage from "./pages/ViewPathPage";
 import Header from "./components/Header";
 import Babu from "./pages/Babu";
+import CreateProduct from "./pages/CreateProduct";
 
 function App() {
   return (
     <Router>
       <Header>
         <Routes>
-          <Route path="/setup" element={<SetupPage />} />
+          <Route path="/admin" element={<SetupPage />} />
           <Route path="/view" element={<ViewPathPage />} />
-          <Route path="/babu" element={<Babu />} />
-          <Route path="*" element={<SetupPage />} /> {/* Default route */}
+          <Route path="/" element={<Babu />} />
+          <Route path="/admin/create-product" element={<CreateProduct />} />
         </Routes>
       </Header>
     </Router>
