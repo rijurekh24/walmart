@@ -1,206 +1,184 @@
 {
-  "Maggi Noodles": {
-    "node_id": "node_1723318162081",
-    "node_name": "A"
+  "node_1723318162081": {
+    "id": "node_1723318162081",
+    "x": "-3.96",
+    "y": "0.20",
+    "z": "-4.62",
+    "name": "A"
   },
-  "Lays Chips": {
-    "node_id": "node_1723318173891",
-    "node_name": "C"
+  "node_1723318173891": {
+    "id": "node_1723318173891",
+    "x": "1.88",
+    "y": "0.20",
+    "z": "-4.65",
+    "name": "C"
   },
-  "Colgate Toothpaste": {
-    "node_id": "node_1723318184544",
-    "node_name": "D"
+  "node_1723318184544": {
+    "id": "node_1723318184544",
+    "x": "4.21",
+    "y": "0.20",
+    "z": "-4.78",
+    "name": "D"
   },
-  "Dove Soap": {
-    "node_id": "node_1723318187485",
-    "node_name": "E"
+  "node_1723318187485": {
+    "id": "node_1723318187485",
+    "x": "-4.03",
+    "y": "0.20",
+    "z": "-2.38",
+    "name": "E"
   },
-  "Coca-Cola": {
-    "node_id": "node_1723318190928",
-    "node_name": "F"
+  "node_1723318190928": {
+    "id": "node_1723318190928",
+    "x": "-0.89",
+    "y": "0.20",
+    "z": "-2.45",
+    "name": "F"
   },
-  "Pepsi": {
-    "node_id": "node_1723318192891",
-    "node_name": "G"
+  "node_1723318192891": {
+    "id": "node_1723318192891",
+    "x": "1.96",
+    "y": "0.20",
+    "z": "-2.44",
+    "name": "G"
   },
-  "Amul Milk": {
-    "node_id": "node_1723318195626",
-    "node_name": "H"
+  "node_1723318195626": {
+    "id": "node_1723318195626",
+    "x": "4.19",
+    "y": "0.20",
+    "z": "-2.52",
+    "name": "H"
   },
-  "Britannia Bread": {
-    "node_id": "node_1723318199712",
-    "node_name": "I"
+  "node_1723318199712": {
+    "id": "node_1723318199712",
+    "x": "-4.05",
+    "y": "0.20",
+    "z": "-0.38",
+    "name": "I"
   },
-  "Sunfeast Biscuits": {
-    "node_id": "node_1723318378137",
-    "node_name": "J"
+  "node_1723318378137": {
+    "id": "node_1723318378137",
+    "x": "-0.91",
+    "y": "0.20",
+    "z": "-0.52",
+    "name": "J"
   },
-  "Tata Tea": {
-    "node_id": "node_1723318381152",
-    "node_name": "K"
+  "node_1723318381152": {
+    "id": "node_1723318381152",
+    "x": "1.98",
+    "y": "0.20",
+    "z": "-0.54",
+    "name": "K"
   },
-  "Aashirvaad Atta": {
-    "node_id": "node_1723318383756",
-    "node_name": "L"
+  "node_1723318383756": {
+    "id": "node_1723318383756",
+    "x": "4.17",
+    "y": "0.20",
+    "z": "-0.64",
+    "name": "L"
   },
-  "Fortune Rice": {
-    "node_id": "node_1723318388116",
-    "node_name": "M"
+  "node_1723318388116": {
+    "id": "node_1723318388116",
+    "x": "-4.02",
+    "y": "0.20",
+    "z": "1.47",
+    "name": "M"
   },
-  "Detergent Powder": {
-    "node_id": "node_1723318392536",
-    "node_name": "N"
+  "node_1723318392536": {
+    "id": "node_1723318392536",
+    "x": "-1.87",
+    "y": "0.20",
+    "z": "1.50",
+    "name": "N"
   },
-  "Nirma Detergent": {
-    "node_id": "node_1723318396551",
-    "node_name": "O"
+  "node_1723318396551": {
+    "id": "node_1723318396551",
+    "x": "-0.02",
+    "y": "0.20",
+    "z": "1.49",
+    "name": "O"
   },
-  "Kissan Jam": {
-    "node_id": "node_1723318400542",
-    "node_name": "P"
+  "node_1723318400542": {
+    "id": "node_1723318400542",
+    "x": "2.01",
+    "y": "0.20",
+    "z": "1.49",
+    "name": "P"
   },
-  "Parle G Biscuits": {
-    "node_id": "node_1723318404455",
-    "node_name": "R"
+  "node_1723318404455": {
+    "id": "node_1723318404455",
+    "x": "-3.99",
+    "y": "0.20",
+    "z": "3.25",
+    "name": "R"
   },
-  "Patanjali Honey": {
-    "node_id": "node_1723318407247",
-    "node_name": "S"
+  "node_1723318407247": {
+    "id": "node_1723318407247",
+    "x": "-1.81",
+    "y": "0.20",
+    "z": "3.17",
+    "name": "S"
   },
-  "Saffola Oil": {
-    "node_id": "node_1723318409211",
-    "node_name": "T"
+  "node_1723318409211": {
+    "id": "node_1723318409211",
+    "x": "-0.11",
+    "y": "0.20",
+    "z": "3.19",
+    "name": "T"
   },
-  "Himalaya Face Wash": {
-    "node_id": "node_1723318411528",
-    "node_name": "U"
+  "node_1723318411528": {
+    "id": "node_1723318411528",
+    "x": "1.92",
+    "y": "0.20",
+    "z": "3.09",
+    "name": "U"
   },
-  "Surf Excel": {
-    "node_id": "node_1723318421770",
-    "node_name": "V"
+  "node_1723318421770": {
+    "id": "node_1723318421770",
+    "x": "-4.01",
+    "y": "0.20",
+    "z": "4.97",
+    "name": "V"
   },
-  "Bournvita": {
-    "node_id": "node_1723318425653",
-    "node_name": "W"
+  "node_1723318425653": {
+    "id": "node_1723318425653",
+    "x": "-1.83",
+    "y": "0.20",
+    "z": "4.87",
+    "name": "W"
   },
-  "Amul Butter": {
-    "node_id": "node_1723318429036",
-    "node_name": "X"
+  "node_1723318429036": {
+    "id": "node_1723318429036",
+    "x": "-0.06",
+    "y": "0.20",
+    "z": "4.89",
+    "name": "X"
   },
-  "Nestle Milk": {
-    "node_id": "node_1723318432447",
-    "node_name": "Y"
+  "node_1723318432447": {
+    "id": "node_1723318432447",
+    "x": "1.97",
+    "y": "0.20",
+    "z": "4.89",
+    "name": "Y"
   },
-  "Red Label Tea": {
-    "node_id": "node_1723318435993",
-    "node_name": "Z"
+  "node_1723318435993": {
+    "id": "node_1723318435993",
+    "x": "4.16",
+    "y": "0.20",
+    "z": "4.91",
+    "name": "Z"
   },
-  "Good Day Biscuits": {
-    "node_id": "node_1723318439711",
-    "node_name": "Q"
+  "node_1723318439711": {
+    "id": "node_1723318439711",
+    "x": "4.14",
+    "y": "0.20",
+    "z": "2.05",
+    "name": "Q"
   },
-  "Bru Coffee": {
-    "node_id": "node_1723318601110",
-    "node_name": "B"
-  },
-  "Hershey's Chocolate": {
-    "node_id": "node_1723318162081",
-    "node_name": "A"
-  },
-  "Kellogg's Cornflakes": {
-    "node_id": "node_1723318173891",
-    "node_name": "C"
-  },
-  "Cadbury Dairy Milk": {
-    "node_id": "node_1723318184544",
-    "node_name": "D"
-  },
-  "Nescafe Coffee": {
-    "node_id": "node_1723318187485",
-    "node_name": "E"
-  },
-  "Ariel Detergent": {
-    "node_id": "node_1723318190928",
-    "node_name": "F"
-  },
-  "Tata Salt": {
-    "node_id": "node_1723318192891",
-    "node_name": "G"
-  },
-  "Sunsilk Shampoo": {
-    "node_id": "node_1723318195626",
-    "node_name": "H"
-  },
-  "Cadbury Bournvita": {
-    "node_id": "node_1723318199712",
-    "node_name": "I"
-  },
-  "Haldiram's Snacks": {
-    "node_id": "node_1723318378137",
-    "node_name": "J"
-  },
-  "Pond's Cream": {
-    "node_id": "node_1723318381152",
-    "node_name": "K"
-  },
-  "Johnson's Baby Powder": {
-    "node_id": "node_1723318383756",
-    "node_name": "L"
-  },
-  "Sunlight Dishwash": {
-    "node_id": "node_1723318388116",
-    "node_name": "M"
-  },
-  "Lipton Tea": {
-    "node_id": "node_1723318392536",
-    "node_name": "N"
-  },
-  "Bournvita Little Champ": {
-    "node_id": "node_1723318396551",
-    "node_name": "O"
-  },
-  "Nescafe Classic": {
-    "node_id": "node_1723318400542",
-    "node_name": "P"
-  },
-  "Maggie Soup": {
-    "node_id": "node_1723318404455",
-    "node_name": "R"
-  },
-  "Dabur Honey": {
-    "node_id": "node_1723318407247",
-    "node_name": "S"
-  },
-  "Patanjali Ghee": {
-    "node_id": "node_1723318409211",
-    "node_name": "T"
-  },
-  "Ching's Secret": {
-    "node_id": "node_1723318411528",
-    "node_name": "U"
-  },
-  "Haldiram's Gulab Jamun": {
-    "node_id": "node_1723318421770",
-    "node_name": "V"
-  },
-  "McCain Fries": {
-    "node_id": "node_1723318425653",
-    "node_name": "W"
-  },
-  "Butter Biscuits": {
-    "node_id": "node_1723318429036",
-    "node_name": "X"
-  },
-  "Kellogg's Muesli": {
-    "node_id": "node_1723318432447",
-    "node_name": "Y"
-  },
-  "Raja Chai": {
-    "node_id": "node_1723318435993",
-    "node_name": "Z"
-  },
-  "Hershey's Syrup": {
-    "node_id": "node_1723318439711",
-    "node_name": "Q"
+  "node_1723318601110": {
+    "id": "node_1723318601110",
+    "x": "-0.94",
+    "y": "0.20",
+    "z": "-4.68",
+    "name": "B"
   }
 }
